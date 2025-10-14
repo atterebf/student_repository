@@ -1968,10 +1968,10 @@
         <xs:annotation>
           <xs:documentation>
             The width of the coordinate space in CSS pixels.
-            <xs:attribute default="150" name="height" type="htmlLength">
           </xs:documentation>
         </xs:annotation>
       </xs:attribute>
+      <xs:attribute default="150" name="height" type="htmlLength">
         <xs:annotation>
           <xs:documentation>
             The height of the coordinate space in CSS pixels.
