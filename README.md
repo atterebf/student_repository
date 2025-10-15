@@ -6,3 +6,7 @@ mon texte ici
 
 autre texte
 
+
+## Images
+
+[Modèle logique de la base de données Chinook](Documentation/chinook.png)
